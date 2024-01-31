@@ -1,0 +1,11 @@
+{
+  "name": "dev-training-program",
+  "version": "1.0.0",
+  "author": "Robson Niemeyer (https://github.com/nierobs)",
+  "scripts": {
+    "start": "node --env-file=.env app.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.7"
+  }
+}

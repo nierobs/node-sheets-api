@@ -1,0 +1,9 @@
+external_resources/
+node_modules/
+.dockerignore
+.env
+.gitignore
+LICENSE.md
+README.md
+Dockerfile
+compose.yaml
