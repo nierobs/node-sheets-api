@@ -8,7 +8,8 @@
 
 ### 1. Share your spreadsheet
 
-Click Share and select Anyone with the link > Editor
+- Copy the spreadsheet located at [https://docs.google.com/spreadsheets/d/1XvWJcRLj2WAeXO3ULQ_GxGm9---3SZkjMbGcXMJtt70/edit](https://docs.google.com/spreadsheets/d/1XvWJcRLj2WAeXO3ULQ_GxGm9---3SZkjMbGcXMJtt70/edit)  
+- Click Share and select Anyone with the link > Editor
 
 ### 2. Enable the Google Sheets API
 
